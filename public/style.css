@@ -97,3 +97,22 @@ form button{
     color: white;
     border: 1px solid white;
 }
+
+.circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.box1{
+    top: 2%;
+    left: -5%;
+    background-color: rgba(255, 198, 108, 0.8)
+}
+
+.box2{
+    top: -8%;
+    left: 0;
+    background-color: rgba(255, 93, 93, 0.8);
+}
